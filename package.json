@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fast-xml-parser": "^3.19.0",
+    "kit": "file:../.kit"
+  }
+}
